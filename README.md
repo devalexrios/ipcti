@@ -10,6 +10,16 @@ Clone el repositorio remoto con la siguiente instrucción:
 git clone --depth=1 https://github.com/devalexrios/ipcti.git
 ```
 
+## Uso
+
+Ejecute el programa con la siguiente instrucción:
+
+```bash
+python3 program.py
+```
+> [!tip] 
+> Para probarlo, ingrese el código telefónico internacional de su país.
+
 ## Países listados
 
 - `+1`: Estados Unidos y Canadá
