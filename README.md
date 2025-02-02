@@ -1,6 +1,6 @@
-# ICBITC
+# IPCTI
 
-Obtenga el nombre del país al que pertenece un código internacional de teléfono específico.
+Descubre a qué país pertenece ese código internacional de teléfono desconocido. 😉️
 
 ## Clonar repositorio
 
