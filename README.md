@@ -2,6 +2,14 @@
 
 Obtenga el nombre del país al que pertenece un código internacional de teléfono específico.
 
+## Clonar repositorio
+
+Clone el repositorio remoto con la siguiente instrucción:
+
+```bash
+git clone --depth=1 https://github.com/devalexrios/ipcti.git
+```
+
 ## Países listados
 
 - `+1`: Estados Unidos y Canadá
